@@ -1,6 +1,13 @@
 create database day_1;
 use day_1;
 
+-- You’re given two tables: users and events. 
+-- The events table holds values of all of the user events 
+-- in the action column (‘like’, ‘comment’, or ‘post’).
+
+-- Write a query to get the percentage of users that have 
+-- never liked or commented, rounded to two decimal places.
+
 CREATE TABLE users (
 user_id INT PRIMARY KEY,
 name VARCHAR(50)
