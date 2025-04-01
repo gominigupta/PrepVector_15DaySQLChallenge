@@ -21,4 +21,4 @@ Web Platforms: PrepVector and LiveCodes
 You do not need to set up any environment locally to participate in the challenge. All challenges were hosted and solved directly on the platform.
 
 👩‍💻 How to Participate
-If you’d like to join the 15-Day SQL Challenge and follow along, visit the official website and sign up: [PrepVector 15-Day SQL Challenge.]([url](https://challenges.prepvector.com/challenges))
+If you’d like to join the 15-Day SQL Challenge and follow along, visit the official website and sign up: https://challenges.prepvector.com/challenges
